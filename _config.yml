@@ -43,12 +43,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter: prismjs
-prismjs:
-  enable: true
-  preprocess: true
-  line_number: true
-  tab_replace: ''
+syntax_highlighter: highlight.js
 
 # Hexo Generator Search
 search:
